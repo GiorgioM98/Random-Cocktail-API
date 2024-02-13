@@ -1,0 +1,48 @@
+.body {
+    min-height: 800px;
+}
+
+.img-fluid {
+    width: 300px;
+    margin-bottom: 2rem;
+    border-top: 5px solid;
+    border-left: 5px solid;
+}
+
+ul {
+    flex-direction: row !important;
+    justify-content: center !important;
+}
+
+.titoloTesto {
+    padding-top: 1rem;
+    color: black;
+}
+
+
+.titolo {
+    border-bottom: 5px solid black;
+    margin-bottom: 2rem;
+}
+
+.col-md-8 {
+    background-color: hsl(0, 100%, 83%);
+    border-bottom: 5px solid black;
+    border-right: 5px solid black;
+}
+
+.istruzioni {
+    padding-left: 25%;
+}
+
+.btn:hover {
+    transition: 0,7s;
+    scale: 1.2;
+    box-shadow: 0 0 10px #ffffff;
+}
+
+@media screen and (max-width: 768px) {
+    .istruzioni {
+        padding-left: 0;
+    }
+}
