@@ -2,7 +2,7 @@
 
 Project developed by Giorgio Marian.
 Through a button it is possible to have recipes for random cocktails, so as to free your imagination in an evening with friends!
-It is available at the URL: https://primosito-2023.firebaseapp.com/
+It is available at the URL: https://random-cocktail-a5a26.firebaseapp.com/
 
 
 ## Summary
